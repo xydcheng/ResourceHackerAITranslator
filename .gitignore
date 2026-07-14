@@ -1,0 +1,11 @@
+﻿# Build output kept for release package
+*.pdb
+*.obj
+*.user
+
+# Local private config: clear keys before committing
+# translator.config.json
+
+# Temporary files
+*.tmp
+*.log
