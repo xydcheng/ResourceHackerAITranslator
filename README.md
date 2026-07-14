@@ -57,7 +57,7 @@ Fill the matching key fields:
 ## Run
 
 ```powershell
-E:\AI自动汉化\resourcehacker-5.2.8.437\ai-translate-bridge\dist\ResourceHackerAITranslator.exe
+E:\dist\ResourceHackerAITranslator.exe
 ```
 
 Then open Resource Hacker, focus the editor pane, and use:
